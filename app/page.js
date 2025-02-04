@@ -6,6 +6,7 @@ export default function Home() {
     <h1>CPRG 306: Web Development 2 - Assignments</h1>
     <h2> <a href="https://cprg306-assignments-alpha-five.vercel.app/week-2" className="underline underline-offset-4 mb-2">Press here to proceed Week 2!</a></h2>
     <h2> <a href="https://cprg306-assignments-alpha-five.vercel.app/week-3" className="underline underline-offset-4 mb-2">Press here to proceed Week 3!</a></h2>
+    <h2> <a href="https://cprg306-assignments-alpha-five.vercel.app/week-4" className="underline underline-offset-4 mb-2">Press here to proceed Week 4!</a></h2>
     </div>
   );
 }

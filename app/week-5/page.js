@@ -1,11 +1,10 @@
-import Button from './new-item';
-
+import NewItem from './new-item';
 
 export default function Page() {
     return (
         <div>
-            <title>Week 4</title>
-            <Button />
+            <title>Week 5</title>
+            <NewItem />
         </div>
     );
 }

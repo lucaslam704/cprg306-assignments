@@ -14,6 +14,7 @@ export default function Home() {
         <h2> <a href="https://cprg306-assignments-alpha-five.vercel.app/week-7" className="underline underline-offset-4 mb-2">Press here to proceed Week 7!</a></h2>
         <h2> <a href="https://cprg306-assignments-alpha-five.vercel.app/week-8" className="underline underline-offset-4 mb-2">Press here to proceed Week 8!</a></h2>
         <h2> <a href="https://cprg306-assignments-alpha-five.vercel.app/week-9" className="underline underline-offset-4 mb-2">Press here to proceed Week 9!</a></h2>
+        <h2> <a href="https://cprg306-assignments-alpha-five.vercel.app/week-10" className="underline underline-offset-4 mb-2">Press here to proceed Week 10!</a></h2>
       </div>
     </div>
   );
